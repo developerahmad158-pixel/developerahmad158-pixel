@@ -48,7 +48,7 @@ Check out my GitHub repositories to explore my development projects.
 
 - Portfolio: https://portfoliowithahmad.netlify.app
 - LinkedIn: https://www.linkedin.com/in/ahmad-junaid-ba2b81445/
-- Email: webdevelopmentwithahmad@gmail.com
+- Email: developerahmad158@gmail.com
 
 ---
 
